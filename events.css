@@ -1,0 +1,33 @@
+.blue {
+    color: blue;
+}
+
+.large {
+    font-size: 3.5em;
+}
+
+.rounded {
+   border-radius: 50%; 
+}
+
+
+.bordered {
+    border: 1px dashed goldenrod;
+}
+
+#red {
+    border: 1px solid red;
+    flex-basis: 50%;
+    height: 200px;
+}
+
+#green {
+    border: 1px solid green;
+    flex-basis: 50%;
+    height: 200px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+}
